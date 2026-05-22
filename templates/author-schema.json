@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "[Author Name]",
+  "url": "[Author Profile URL]",
+  "image": "[Author Image URL]",
+  "jobTitle": "[Author Job Title]",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "[Brand or Company Name]",
+    "url": "[Website URL]"
+  },
+  "sameAs": [
+    "[LinkedIn URL]",
+    "[X/Twitter URL]",
+    "[Instagram URL]",
+    "[YouTube URL]"
+  ],
+  "knowsAbout": [
+    "[Topic 1]",
+    "[Topic 2]",
+    "[Topic 3]",
+    "[Topic 4]"
+  ],
+  "description": "[Short author bio that explains real expertise, experience, and topic relevance.]"
+}

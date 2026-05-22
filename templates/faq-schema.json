@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "[FAQ Question 1]",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[FAQ Answer 1 in plain text. No markdown. No HTML. Keep it aligned with the visible FAQ answer on the page.]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "[FAQ Question 2]",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[FAQ Answer 2 in plain text. No markdown. No HTML. Keep it aligned with the visible FAQ answer on the page.]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "[FAQ Question 3]",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[FAQ Answer 3 in plain text. No markdown. No HTML. Keep it aligned with the visible FAQ answer on the page.]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "[FAQ Question 4]",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[FAQ Answer 4 in plain text. No markdown. No HTML. Keep it aligned with the visible FAQ answer on the page.]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "[FAQ Question 5]",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[FAQ Answer 5 in plain text. No markdown. No HTML. Keep it aligned with the visible FAQ answer on the page.]"
+      }
+    }
+  ]
+}
